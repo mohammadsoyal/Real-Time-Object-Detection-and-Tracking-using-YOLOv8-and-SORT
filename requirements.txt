@@ -3,3 +3,4 @@ opencv-python
 filterpy
 numpy
 scipy
+skimage
